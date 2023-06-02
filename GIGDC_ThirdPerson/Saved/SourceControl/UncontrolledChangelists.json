@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game/GIGDC-team/GIGDC_Busan/GIGDC_ThirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Game/GIGDC-team/GIGDC_Busan/GIGDC_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SQ/FL45757COSGB5FN7XQQZ67.uasset",
+				"E:/Game/GIGDC-team/GIGDC_Busan/GIGDC_ThirdPerson/Content/ThirdPerson/Blueprints/AI/BT_Friend.uasset",
 				"C:/Users/user/Documents/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DV/8AGUC2OLJQ1HBNZ32G7V7S.uasset",
 				"C:/Users/user/Documents/MyProject/Content/ThirdPerson/Blueprints/AI/BB_Friend.uasset"
 			]
