@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/BP_MyPlayerController.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/human_sword_attack.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/human_sword_attack2.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/ABP/AM_Attack.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_KMSGame/Content/Blueprints/Player/ABP/AM_Attack.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_KMSGame/Content/Blueprints/Player/Animation/human_sword_attack2.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_KMSGame/Content/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
