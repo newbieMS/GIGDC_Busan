@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_GunPlayer_EX.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Map/TestMap.umap",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_MyGameMode.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/BS_Gunner.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/ABP_GunPlayer.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_MyPlayerController.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Sword/human_sword_forwoard_roll.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Sword/ABP/AM_Roll.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_Player.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Sword/ABP/ABP_Player.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/AM_Shot.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/AM_Aim.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_LJH/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_Player.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_LJH/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_MyGameMode.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_GunPlayer.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_GunPlayerController.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/BP_GunGameMode.uasset"
+			]
+		}
+	]
+}
