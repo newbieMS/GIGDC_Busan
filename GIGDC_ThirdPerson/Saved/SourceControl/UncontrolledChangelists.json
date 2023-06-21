@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/ABP_GunPlayer.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/AM_Shot.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/AM_Aim.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/ABP/BS_Gunner.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/BP_GunPlayer_EX.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Map/TestMap.umap",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/BP_MyPlayerController.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/BP_Player.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Sword/human_sword_hit.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/BP_MyGameMode.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Player/Animation/Gun/Animation/human_gun_wait.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/M_gun_fire.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/M_gun_fire_Inst.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/M_gun_flash_01.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/M_Slash01.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/NS_minigun01.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/NS_Slash1.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/Texture/gun_effcet_alpha.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/gun_effcet_alpha.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/Texture/gun_effcet_alpha_2.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Effect/gun_effcet_alpha_2.uasset"
+			]
+		}
+	]
+}
