@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Golem/BP_GolemProjectile.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Golem/Golem_Skeletal/BASE_golem_Skeleton.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Golem/BP_Golem.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTTask_LookTarget.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BT_Enemy.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTTask_MoveToGolem.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Map/TestMap.umap"
+			]
+		}
+	]
+}
