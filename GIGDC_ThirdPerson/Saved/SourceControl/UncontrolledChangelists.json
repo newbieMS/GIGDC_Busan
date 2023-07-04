@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Golem/BP_GolemProjectile.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Map/TestMap.umap",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Metarial/grass1.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Golem/BP_SpawnArea_Golem.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Bugs/BP_SpawnArea.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Big_Bug/BP_Big_Bug.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/DB/DT_Character.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Animation/AM_BigBug_Attack.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Animation/AM_BigBug_Death.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Animation/ABP_Bug.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Animation/ABP_BigBug.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Big_Bug/BP_SpawnArea_BigBug.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTDecorator_EnemySelector_Bigbug.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTDecorator_EnemySelector.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BT_Enemy.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTDecorator_EnemySelector_Golem.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTTask_Attack.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/AI/BTDecorator_TargetInRange.uasset",
+				"C:/Users/go991/Documents/GitHub/GIGDC_Busan/GIGDC_ThirdPerson/Content/Blueprints/Enemy/Bugs/BP_Enemy.uasset"
+			]
+		}
+	]
+}
