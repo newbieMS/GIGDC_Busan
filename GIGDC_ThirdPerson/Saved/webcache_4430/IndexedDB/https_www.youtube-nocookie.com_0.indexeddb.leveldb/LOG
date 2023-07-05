@@ -1,6 +1,0 @@
-2023/07/06-05:38:15.894 417b0 Creating DB C:/Users/dudrn/OneDrive/바탕 화면/GIGDC_BGmodel/GIGDC_Busan/GIGDC_ThirdPerson/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/07/06-05:38:15.910 417b0 Reusing MANIFEST C:/Users/dudrn/OneDrive/바탕 화면/GIGDC_BGmodel/GIGDC_Busan/GIGDC_ThirdPerson/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/06-05:41:34.576 42060 Level-0 table #5: started
-2023/07/06-05:41:34.589 42060 Level-0 table #5: 1167 bytes OK
-2023/07/06-05:41:34.596 42060 Delete type=0 #3
-2023/07/06-05:41:34.597 42060 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
